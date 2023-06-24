@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**VelementsMounqu/VelementsMounqu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* I am a Devops and Python Developer Intern at @machaao :toolbox: , MicroSoft Student Partner and Projects Lead at CodeChefVIT :sparkles:.
 
-Here are some ideas to get you started:
+* I have done multiple projects ranging from the field of Devops , Backend to Cloud Computing and Automation :file_cabinet: .
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* I am currently brushing up my skills and plan to learn Golang and Terraform .
+
+* I am willing to work on free-lance projects and love to  contribute to open source projects :bulb:
+
+* :magnet: You can checkout my projects from here :fire: - [![projects](https://forthebadge.com/images/badges/check-it-out.svg)](https://github.com/DiptoChakrabarty/DiptoChakrabarty/blob/master/Projects.md)
+
+* Connect with me on LinkeDin :fireworks: [LinkeDin Profile](https://www.linkedin.com/in/dipto-chakrabarty/) :sparkler:
+* o
